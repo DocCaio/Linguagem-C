@@ -9,6 +9,10 @@ int main() {
         c++;
     }
 
+     //for  (int i = 0; i < 10000000; i++) {
+     //   c++
+    // }
+
     printf("olá, c = %d\n" , c);
 
 return 0;
